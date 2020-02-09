@@ -2,10 +2,11 @@
     "test": [
         {
             "question": "Legends: What is the Resol'nare?",
+            "type": "multiple",
             "answers": [
                 {
                     "text":"Code of ethics in addition to the original Canons of Honor",
-                    "correct": false                
+                    "correct": true                
                 },
                 {
                     "text":"Compound word of resol and nari, meaning six actions",
@@ -19,6 +20,7 @@
         },
         {
             "question": "Above the Resol'nare, what is the most important value to the Mandalorian?",
+            "type": "single",
             "answers": [
                 {
                     "text":"Loyalty",
@@ -40,6 +42,7 @@
         },
         {
             "question": "What are the Six Actions listed in the Resol'nare?",
+            "type": "multiple",
             "answers": [
                 {
                     "text":"Wearing armor",
