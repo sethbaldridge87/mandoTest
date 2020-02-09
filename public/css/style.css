@@ -1,5 +1,35 @@
-.btn {
-  background: yellow;
-  border: 1px solid black;
+body {
+  background: #302f2f;
+  color: white;
+}
+
+body .container {
+  padding-bottom: 100px;
+}
+
+body .container .row img {
+  text-align: center;
+}
+
+body .container .row .col {
+  text-align: center;
+}
+
+body .container .row h1 {
+  text-align: center;
+}
+
+body .container .row h1, body .container .row h4, body .container .row h5 {
+  margin-bottom: 1rem;
+}
+
+body .container .row .btn {
+  background: #570e0e;
+  color: white;
+}
+
+body .container .row #reset .btn {
+  background: #8f8f34;
+  color: #302f2f;
 }
 /*# sourceMappingURL=style.css.map */

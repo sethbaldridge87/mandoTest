@@ -1,4 +1,32 @@
-.btn {
-    background: yellow;
-    border: 1px solid black;
+body {
+    background: rgb(48, 47, 47);
+    color: white;
+    .container {
+        padding-bottom: 100px;
+
+        .row {
+            img {
+                text-align: center;
+            }
+            .col {
+                text-align: center;
+            }
+            h1 {
+                text-align: center;
+            }
+            h1,h4,h5 {
+                margin-bottom: 1rem;
+            }
+            .btn {
+                background: rgb(87, 14, 14);
+                color: white;
+            }
+            #reset {
+                .btn {
+                    background: rgb(143, 143, 52);
+                    color: rgb(48, 47, 47);
+                }
+            }
+        }
+    };
 }

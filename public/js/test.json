@@ -6,15 +6,15 @@
             "answers": [
                 {
                     "text":"Code of ethics in addition to the original Canons of Honor",
-                    "correct": true                
+                    "correct":true                
                 },
                 {
                     "text":"Compound word of resol and nari, meaning six actions",
-                    "correct": true
+                    "correct":true
                 },
                 {
                     "text":"SuperComando code obviously",
-                    "correct": false
+                    "correct":false
                 }
             ]
         },
@@ -24,19 +24,19 @@
             "answers": [
                 {
                     "text":"Loyalty",
-                    "correct": false                
+                    "correct":false                
                 },
                 {
                     "text":"Honor",
-                    "correct": true
+                    "correct":true
                 },
                 {
                     "text":"Glory",
-                    "correct": false
+                    "correct":false
                 },
                 {
                     "text":"Culture",
-                    "correct": false
+                    "correct":false
                 }
             ]
         },
@@ -46,43 +46,1303 @@
             "answers": [
                 {
                     "text":"Wearing armor",
-                    "correct": true
+                    "correct":true
                 },
                 {
                     "text":"Speaking the language",
-                    "correct": false
+                    "correct":true
                 },
                 {
                     "text":"One should die as they have lived",
-                    "correct": true
+                    "correct":false
                 },
                 {
                     "text":"Defending yourself and your family",
-                    "correct": false
+                    "correct":true
                 },
                 {
                     "text":"Raising your children as Mandalorians",
-                    "correct": true
+                    "correct":true
                 },
                 {
                     "text":"The strong have the right to rule",
-                    "correct": true
+                    "correct":false
                 },
                 {
                     "text":"When called upon by the Mand'alor, rallying to his cause",
-                    "correct": false
+                    "correct":true
                 },
                 {
                     "text":"Without honor one may as well be dead",
-                    "correct": true
+                    "correct":false
                 },
                 {
                     "text":"Without one's clan one has no purpose",
-                    "correct": true
+                    "correct":false
                 },
                 {
                     "text":"Contributing to the clan's welfare",
-                    "correct": false
+                    "correct":true
+                }
+            ]
+        },
+        {
+            "question":"What is a Foundling?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"A small person who's been found",
+                    "correct":false
+                },
+                {
+                    "text":"A type of Mandalorian who was not born Mandalorian, but adopted into their culture",
+                    "correct":true
+                },
+                {
+                    "text":"Like a hobbit, but more intense",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"What was the Great Purge?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Mandalorian term for Order 66",
+                    "correct":false
+                },
+                {
+                    "text":"When beskar was gathered by the Empire and the Mandalorians killed",
+                    "correct":true
+                },
+                {
+                    "text":"Hunting of Imperials in Post-Empire galaxy",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Can Mandalorians take off their helmets? ",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"During Post-Empire era (between Episodes VI and VII), no. However, in other eras they have",
+                    "correct":true
+                },
+                {
+                    "text":"Never",
+                    "correct":false
+                },
+                {
+                    "text":"Yes, they can. Mandalorians do what they want whenever they want regardless of consequence",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"What happened to the planet Mandalore as seen in The Clone Wars and Rebels?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Nothing, it's a desert",
+                    "correct":false
+                },
+                {
+                    "text":"That's not Mandalore! Mandalore was a temperate, forested, barren planet",
+                    "correct":false
+                },
+                {
+                    "text":"It was once a beautiful planet that was destroyed by centuries of war",
+                    "correct":true
+                }
+            ]
+        },
+        {
+            "question":"After the Mandalorian Wars, this cataclysmic event destroyed the planet of Mandalore's surface, and was authorized by the Republic to remove Mandalorians as a galactic power, causing a deep Mandalorian resentment of the Republic and split the Mandalorians into three common political factions: True Mandalorians, Death Watch, and New Mandalorians. ",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Battle of Mandalore",
+                    "correct":false
+                },
+                {
+                    "text":"Mandalorian Reformation",
+                    "correct":false
+                },
+                {
+                    "text":"Mandalorian Excision",
+                    "correct":true
+                }
+            ]
+        },
+        {
+            "question":"Who created the Darksaber?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Pre Vizsla",
+                    "correct":false
+                },
+                {
+                    "text":"Tarre Vizsla",
+                    "correct":true
+                },
+                {
+                    "text":"Moff Gideon",
+                    "correct":false
+                },
+                {
+                    "text":"Darth Maul",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Who united the Mandalorian clans against the Galactic Empire and led them to battle?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Satine Kryze",
+                    "correct":false
+                },
+                {
+                    "text":"Sabine Wren",
+                    "correct":false
+                },
+                {
+                    "text":"Ursa Wren",
+                    "correct":false
+                },
+                {
+                    "text":"Bo-Katan Kryze",
+                    "correct":true
+                },
+                {
+                    "text":"Fenn Rau",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Which group of Mandalorians were the first to utilize beskar?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Early Crusaders",
+                    "correct":false
+                },
+                {
+                    "text":"Neo-Crusaders, era of Knights of the Old Republic",
+                    "correct":true
+                },
+                {
+                    "text":"Late Crusaders, era of Star Wars: The Old Republic",
+                    "correct":false
+                },
+                {
+                    "text":"Modern Era during the Republic and Empire",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Legends: Who were the Cuy'val Dar?",
+            "type":"multiple",
+            "answers": [
+                {
+                    "text":"Individuals picked by Jango Fett to train Republic Commandos",
+                    "correct":true
+                },
+                {
+                    "text":"Exiled Mandalorians who moved off of Mandalore and were considered dishonored",
+                    "correct":false
+                },
+                {
+                    "text":"\"Those Who No Longer Exist\"",
+                    "correct":true
+                },
+                {
+                    "text":"Upper echelons of Death Watch",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Kryze family consists of who:",
+            "type":"multiple",
+            "answers": [
+                {
+                    "text":"Satine",
+                    "correct":true
+                },
+                {
+                    "text":"Sabine",
+                    "correct":false
+                },
+                {
+                    "text":"Fenn",
+                    "correct":false
+                },
+                {
+                    "text":"Korkie",
+                    "correct":true
+                },
+                {
+                    "text":"Hark",
+                    "correct":false
+                },
+                {
+                    "text":"Bo-Katan",
+                    "correct":true
+                }
+            ]
+        },
+        {
+            "question":"Who was made Regent of Mandalore by the Jedi Order and the Galactic Republic toward the end of the Clone Wars?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Satine Kryze",
+                    "correct":false
+                },
+                {
+                    "text":"Bo-Katan Kryze",
+                    "correct":true
+                },
+                {
+                    "text":"Fenn Rau",
+                    "correct":false
+                },
+                {
+                    "text":"Pre Vizsla",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Who was tasked with rebuilding Mandalorian government, society, and economy after the civil war, previous to the Clone Wars?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Bo-Katan Kryze",
+                    "correct":true
+                },
+                {
+                    "text":"Satine Kryze",
+                    "correct":false
+                },
+                {
+                    "text":"Sabine Wren",
+                    "correct":false
+                },
+                {
+                    "text":"Din Djarin",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Which planets belonged to Mandalore?",
+            "type":"multiple",
+            "answers": [
+                {
+                    "text":"Mandalore",
+                    "correct":true
+                },
+                {
+                    "text":"Dxun",
+                    "correct":false
+                },
+                {
+                    "text":"Concordia",
+                    "correct":true
+                },
+                {
+                    "text":"Concord Dawn",
+                    "correct":true
+                },
+                {
+                    "text":"Dantooine",
+                    "correct":false
+                },
+                {
+                    "text":"Krownest",
+                    "correct":true
+                },
+                {
+                    "text":"Kalevala",
+                    "correct":true
+                },
+                {
+                    "text":"Byss",
+                    "correct":false
+                },
+                {
+                    "text":"Phindar",
+                    "correct":true
+                },
+                {
+                    "text":"Kamino",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"What was the name of the group, led by Satine Kryze, that protected 1,500 systems and maintained pacifist positions during the Clone Wars?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Pacifist Faction of the Galactic Republic",
+                    "correct":false
+                },
+                {
+                    "text":"Council of Neutral Systems",
+                    "correct":true
+                },
+                {
+                    "text":"Confederacy of Independent Systems",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Who is Prince Tal Merrik?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Some dude.",
+                    "correct":false
+                },
+                {
+                    "text":"A Mandalorian Minister who served during the time of Satine Kryze.",
+                    "correct":false
+                },
+                {
+                    "text":"A Mandalorian Senator who represented the planet Kalevala.",
+                    "correct":true
+                }
+            ]
+        },
+        {
+            "question":"Who were the Death Watch?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Splinter group opposed to the New Mandalorians, gained power by spreading terror",
+                    "correct":true
+                },
+                {
+                    "text":"Underdog soldiers who fought for the common people against the corrupt Satine",
+                    "correct":false
+                },
+                {
+                    "text":"Leader of many underground syndicates who conquered Mandalore",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Legends: Who are known members of Cuy'val Dar?",
+            "type":"multiple",
+            "answers": [
+                {
+                    "text":"Walon Vau",
+                    "correct":true
+                },
+                {
+                    "text":"Sarsius Torne",
+                    "correct":true
+                },
+                {
+                    "text":"Fenn Rau",
+                    "correct":false
+                },
+                {
+                    "text":"Cort Davin",
+                    "correct":true
+                },
+                {
+                    "text":"Mij Gilamar",
+                    "correct":true
+                },
+                {
+                    "text":"Dred Priest",
+                    "correct":true
+                },
+                {
+                    "text":"Isabet Reau",
+                    "correct":true
+                },
+                {
+                    "text":"Rav Bralor",
+                    "correct":true
+                },
+                {
+                    "text":"B'arin Apma",
+                    "correct":true
+                },
+                {
+                    "text":"Kal Skirata",
+                    "correct":true
+                },
+                {
+                    "text":"Wad'e Tay'haai",
+                    "correct":true
+                },
+                {
+                    "text":"Lama Su",
+                    "correct":false
+                },
+                {
+                    "text":"Llats Ward",
+                    "correct":true
+                },
+                {
+                    "text":"Vhonte Tervho",
+                    "correct":true
+                },
+                {
+                    "text":"Jango Fett",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Who poisoned Mandalorian school children, bombed citizens, spread propaganda about the Mandalorian leadership, allied themselves with crime lords and Dark Lords to stage a coup d'etat?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"New Mandalorians",
+                    "correct":false
+                },
+                {
+                    "text":"True Mandalorians",
+                    "correct":false
+                },
+                {
+                    "text":"Death Watch",
+                    "correct":true
+                },
+                {
+                    "text":"The Protectors",
+                    "correct":false
+                },
+                {
+                    "text":"Crusaders",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Who came to power and re-aligned the Mandalorian government with the ideals of the political faction, the New Mandalorians?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Bo-Katan Kryze",
+                    "correct":false
+                },
+                {
+                    "text":"Pre Vizsla",
+                    "correct":false
+                },
+                {
+                    "text":"Satine Kryze",
+                    "correct":true
+                },
+                {
+                    "text":"Tarre Vizsla",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Who's Mandalorian armor inspired both Clone and Republic Commando armor?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Boba Fett",
+                    "correct":false
+                },
+                {
+                    "text":"Jango Fett",
+                    "correct":true
+                },
+                {
+                    "text":"Jodo Kast",
+                    "correct":false
+                },
+                {
+                    "text":"Jaster Mereel",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Which Mandalorian clans are present at the time of Bo-Katan's rise as Mand'alor?",
+            "type":"multiple",
+            "answers": [
+                {
+                    "text":"Fett",
+                    "correct":false
+                },
+                {
+                    "text":"Ordo",
+                    "correct":false
+                },
+                {
+                    "text":"Wren",
+                    "correct":true
+                },
+                {
+                    "text":"Kryze",
+                    "correct":true
+                },
+                {
+                    "text":"Cadera",
+                    "correct":false
+                },
+                {
+                    "text":"Rook",
+                    "correct":true
+                },
+                {
+                    "text":"Eldar",
+                    "correct":true
+                },
+                {
+                    "text":"Kast",
+                    "correct":false
+                },
+                {
+                    "text":"Vizsla",
+                    "correct":true
+                },
+                {
+                    "text":"The Protectors",
+                    "correct":true
+                }
+            ]
+        },
+        {
+            "question":"What is Mand'alor?",
+            "type":"multiple",
+            "answers": [
+                {
+                    "text":"Sole leader of the Mandalorians",
+                    "correct":true
+                },
+                {
+                    "text":"Mandalorian word translating to clan leader of the Mandalorians",
+                    "correct":true
+                },
+                {
+                    "text":"A clan leader",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"What is the \"Duchess\"?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"A capital ship",
+                    "correct":false
+                },
+                {
+                    "text":"Imperial superweapon",
+                    "correct":true
+                },
+                {
+                    "text":"An expensive sniper rifle",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Legends: These Mandalorians, members of Cuy'val Dar, became known for their underground railroad for deserting clone troopers and soliders who wanted a better life than slavery. They started their underground compound in Kyrimorut.",
+            "type":"multiple",
+            "answers": [
+                {
+                    "text":"Llats Ward",
+                    "correct":false
+                },
+                {
+                    "text":"Walon Vau",
+                    "correct":true
+                },
+                {
+                    "text":"Isabet Reau",
+                    "correct":false
+                },
+                {
+                    "text":"Kal Skirata",
+                    "correct":true
+                },
+                {
+                    "text":"Vhonte Tervo",
+                    "correct":false
+                },
+                {
+                    "text":"Rav Bralor",
+                    "correct":true
+                }
+            ]
+        },
+        {
+            "question":"Legends: This Mandalorian was the son of a dar'manda and was bullied by other Mandalorians and lied to by Mand'alor the Vindicated about the true nature of his father's exile. As a result, he emulated the Mandalorian values and ethics to an extreme to prove himself worthy of his people, and never bullied or belittled others despite their treatment of him.",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Shae Vizsla",
+                    "correct":false
+                },
+                {
+                    "text":"Cassus Fett",
+                    "correct":false
+                },
+                {
+                    "text":"Torian Cadera",
+                    "correct":true
+                },
+                {
+                    "text":"Tarre Vizsla",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Legends: During the Mandalorian Wars, who was Mand'alor the Ultimate's aide de camp and top strategist?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Cassus Fett",
+                    "correct":true
+                },
+                {
+                    "text":"Artus Lok",
+                    "correct":false
+                },
+                {
+                    "text":"Rohlan Dyre",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Legends: Which Mandalorian continuously questioned the ulterior motives of Mand'alor the Ultimate's reasons for conquering the galaxy during the Mandalorian Wars, resulting in becoming friends with Revanchists, rogue Jedi, and fighting against blind loyalty?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Artus Lok",
+                    "correct":false
+                },
+                {
+                    "text":"Jincoln Cadera",
+                    "correct":false
+                },
+                {
+                    "text":"Cassus Fett",
+                    "correct":false
+                },
+                {
+                    "text":"Rohlan Dyre",
+                    "correct":true
+                }
+            ]
+        },
+        {
+            "question":"What is the 'manda'?",
+            "type":"multiple",
+            "answers": [
+                {
+                    "text":"The collective soul or heaven",
+                    "correct":true
+                },
+                {
+                    "text":"Mandalorian version of the Force, or Force-like understanding",
+                    "correct":false
+                },
+                {
+                    "text":"The state of being Mandalorian in mind, body and spirit",
+                    "correct":true
+                }
+            ]
+        },
+        {
+            "question":"In Forces of Destiny, Sabine Wren and Tristan Wren destroy an Imperial outpost built on a giant statue of what famous Mandalorian?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Jaster Mereel",
+                    "correct":false
+                },
+                {
+                    "text":"Tarre Vizsla",
+                    "correct":true
+                },
+                {
+                    "text":"Jango Fett",
+                    "correct":false
+                },
+                {
+                    "text":"Canderous Ordo",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"What was the Duchess used for?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Destroy Mandalorian capital of Sundari",
+                    "correct":false
+                },
+                {
+                    "text":"As an E-web to eliminate multiple enemies at once",
+                    "correct":false
+                },
+                {
+                    "text":"Superheat beskar to disintegrate the wearer",
+                    "correct":true
+                },
+                {
+                    "text":"Snipe opponents from miles across terrain",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Who created the Duchess and who is it named after?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Sabine Wren, Bo-Katan Kryze",
+                    "correct":false
+                },
+                {
+                    "text":"Sabine Wren, Satine Kryze",
+                    "correct":true
+                },
+                {
+                    "text":"Bo-Katan Kryze, Satine Kryze",
+                    "correct":false
+                },
+                {
+                    "text":"Imperial Security Bureau, Satine Kryze",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Legends: The 16 year war between the Mandalorians and Jedi and Republic ended in a genocidal battle over the planet....?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Korriban",
+                    "correct":false
+                },
+                {
+                    "text":"Malachor",
+                    "correct":true
+                },
+                {
+                    "text":"Concord Dawn",
+                    "correct":false
+                },
+                {
+                    "text":"Morriband",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Who held a vibro-blade fight with Din Djarin over whether or not it was cowardly to serve the Empire?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"The Armorer",
+                    "correct":false
+                },
+                {
+                    "text":"Paz Vizsla",
+                    "correct":true
+                },
+                {
+                    "text":"Jodo Kast",
+                    "correct":false
+                },
+                {
+                    "text":"Jaster Mereel",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"What is 'vheh'yaim'?",
+            "type":"multiple",
+            "answers": [
+                {
+                    "text":"Mandalorian mass housing",
+                    "correct":false
+                },
+                {
+                    "text":"A traditional Mandalorian dwelling",
+                    "correct":true
+                },
+                {
+                    "text":"A space yurt",
+                    "correct":true
+                },
+                {
+                    "text":"Another word for Mandalorian bio-cubes",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Legends: After the Mandalorian Wars, who befriended Revan, unified the Mandalorian clans to regroup their strength for the support of the Republic, later becoming Mand'alor the Preserver?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Canderous Ordo",
+                    "correct":true
+                },
+                {
+                    "text":"Veela Ordo",
+                    "correct":false
+                },
+                {
+                    "text":"Jincoln Cadera",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Legends: Which Mandalorian was dar'manda (exiled Mandalorian) for leading the Crusader Schism, opposing Mand'alor the Vindicated, Artus Lok, and arguing that Mandalorians should uphold their promise  to aid the Republic as set by Mand'alor the Preserver?  ",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Canderous Ordo",
+                    "correct":false
+                },
+                {
+                    "text":"Torian Cadera",
+                    "correct":false
+                },
+                {
+                    "text":"Jincoln Cadera",
+                    "correct":true
+                },
+                {
+                    "text":"Meetra Surik",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"This Mandalorian betrayed Bo-Katan Kryze and invited the Galactic Empire to Mandalore with the promise of being the sellout leader of Mandalore and Hand of the Emperor.",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Tiber Saxon",
+                    "correct":false
+                },
+                {
+                    "text":"Gar Saxon",
+                    "correct":true
+                },
+                {
+                    "text":"Pre Vizsla",
+                    "correct":false
+                },
+                {
+                    "text":"Captain Hark",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Who picked up the pieces from Sabine Wren's sabotaged Duchess plan, rebuilt the Duchess, and supported the Empire in subduing Mandalorians and destroying their culture?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Captain Hark",
+                    "correct":false
+                },
+                {
+                    "text":"Tiber Saxon",
+                    "correct":true
+                },
+                {
+                    "text":"Rook Kast",
+                    "correct":false
+                },
+                {
+                    "text":"Gar Saxon",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Legends: Also known as Kad, this Mandalorian was the son of a Mandalorian raised Republic Commando and a Jedi General and supported Mandalorian reform so his people could live better lives.",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Bardan Jusik",
+                    "correct":false
+                },
+                {
+                    "text":"Etain Tur-Mukan",
+                    "correct":false
+                },
+                {
+                    "text":"Ghes Orade",
+                    "correct":false
+                },
+                {
+                    "text":"Venku Skirata",
+                    "correct":true
+                },
+                {
+                    "text":"Goran Beviin",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Legends: Which Mandalorian clans were in support of the Crusader Schism, which as to support the Republic as Mandalore the Preserver had three centuries prior?",
+            "type":"multiple",
+            "answers": [
+                {
+                    "text":"Kelborn",
+                    "correct":true
+                },
+                {
+                    "text":"Cadera",
+                    "correct":true
+                },
+                {
+                    "text":"Lok",
+                    "correct":false
+                },
+                {
+                    "text":"Surik",
+                    "correct":false
+                },
+                {
+                    "text":"Rook",
+                    "correct":false
+                },
+                {
+                    "text":"Kast",
+                    "correct":false
+                },
+                {
+                    "text":"Itera",
+                    "correct":true
+                }
+            ]
+        },
+        {
+            "question":"What is the Rising Phoenix?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Another call sign",
+                    "correct":false
+                },
+                {
+                    "text":"Jump-boots",
+                    "correct":false
+                },
+                {
+                    "text":"The act of using a jetpack",
+                    "correct":true
+                }
+            ]
+        },
+        {
+            "question":"Legends: Which crime lord did Canderous Ordo work for after the Mandalorian Wars?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Jabba the Hutt",
+                    "correct":false
+                },
+                {
+                    "text":"Calo Nord",
+                    "correct":false
+                },
+                {
+                    "text":"Gadon Thek",
+                    "correct":false
+                },
+                {
+                    "text":"Brejik",
+                    "correct":false
+                },
+                {
+                    "text":"Davik Kang",
+                    "correct":true
+                }
+            ]
+        },
+        {
+            "question":"Legends: Once a Protector, this Mandalorian led the True Mandalorians, a group of reformist ideals that followed the SuperCommando Code and valued honor and decency over the barbarism and brigandage.",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Jango Fett",
+                    "correct":false
+                },
+                {
+                    "text":"Jaster Mereel",
+                    "correct":true
+                },
+                {
+                    "text":"Jodo Kast",
+                    "correct":false
+                },
+                {
+                    "text":"Montross",
+                    "correct":false
+                },
+                {
+                    "text":"Tor Vizsla",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"This clone trooper was bestowed the Mandalorian jaig eyes (jai'galaar'la sur'haii'se, translating as \"shriek-hawk eyes\") symbol for acts of honor and bravery.",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Commander Cody",
+                    "correct":false
+                },
+                {
+                    "text":"ARC Trooper Havoc",
+                    "correct":false
+                },
+                {
+                    "text":"Captain Rex",
+                    "correct":true
+                },
+                {
+                    "text":"Commander Thorn",
+                    "correct":false
+                },
+                {
+                    "text":"Alpha Spar",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Legends: This Mandalorian was once a Jedi General who served during the Clone Wars, and left the Jedi Order due to personal and ethical difference, later joining the Mandalorians.",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Etain Tur-Murkan",
+                    "correct":false
+                },
+                {
+                    "text":"Bardan Jusik",
+                    "correct":true
+                },
+                {
+                    "text":"Kina Ha",
+                    "correct":false
+                },
+                {
+                    "text":"Mirta Gev",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"What are Whistling Birds?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"A Mandalorian call sign",
+                    "correct":false
+                },
+                {
+                    "text":"Small guided munitions placed in Mandalorian vambraces",
+                    "correct":true
+                },
+                {
+                    "text":"Another name for jetpack",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Legends: Which individual was ultimately responsible for the destruction of the True Mandalorian faction by manipulating the Jedi Order into killing the them?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"New Mandalorians",
+                    "correct":false
+                },
+                {
+                    "text":"Tor Vizsla",
+                    "correct":true
+                },
+                {
+                    "text":"Count Dooku",
+                    "correct":false
+                },
+                {
+                    "text":"Padawan Vosa",
+                    "correct":false
+                },
+                {
+                    "text":"Montross",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"After their fall, many Death Watch members became_____  members under Darth Maul.",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Pyke Syndicate",
+                    "correct":false
+                },
+                {
+                    "text":"Shadow Collective",
+                    "correct":true
+                },
+                {
+                    "text":"Black Suns",
+                    "correct":false
+                },
+                {
+                    "text":"Hutt Clan",
+                    "correct":false
+                },
+                {
+                    "text":"Crimson Dawn",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Legends: These clone troopers, known as Null ARCs, were raised as Mandalorian warriors on Kamino and deserted the Grand Army of the Republic at the time of Order 66 to live their lives as free men.",
+            "type":"multiple",
+            "answers": [
+                {
+                    "text":"Spar",
+                    "correct":false
+                },
+                {
+                    "text":"Ordo",
+                    "correct":true
+                },
+                {
+                    "text":"A'den",
+                    "correct":true
+                },
+                {
+                    "text":"Thorn",
+                    "correct":false
+                },
+                {
+                    "text":"Drama",
+                    "correct":false
+                },
+                {
+                    "text":"Mereel",
+                    "correct":true
+                },
+                {
+                    "text":"Gregor",
+                    "correct":false
+                },
+                {
+                    "text":"Kom'rk",
+                    "correct":true
+                },
+                {
+                    "text":"Wooley",
+                    "correct":false
+                },
+                {
+                    "text":"Jaing",
+                    "correct":true
+                },
+                {
+                    "text":"Sull",
+                    "correct":false
+                },
+                {
+                    "text":"Havoc",
+                    "correct":false
+                },
+                {
+                    "text":"Prudii",
+                    "correct":true
+                }
+            ]
+        },
+        {
+            "question":"Legends: Which Mandalorian betrayed Jaster Mereel, left him to die, and tried to steal the title Mand'alor?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Tor Vizsla",
+                    "correct":false
+                },
+                {
+                    "text":"Jodo Kast",
+                    "correct":false
+                },
+                {
+                    "text":"Montross",
+                    "correct":true
+                },
+                {
+                    "text":"Jango Fett",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"What is Skull Squadron?",
+            "type":"multiple",
+            "answers": [
+                {
+                    "text":"A squadron of Mandalorian pilots that flew during the Rebellion",
+                    "correct":false
+                },
+                {
+                    "text":"A squadron of Fang fighters flown by Mandalorian Protectors during the Clone Wars",
+                    "correct":true
+                },
+                {
+                    "text":"A squadron led by Fenn Rau, leader of the Protectors",
+                    "correct":true
+                },
+                {
+                    "text":"A squadron of Mandalorians who sided with the Empire during the Galactic Civil War",
+                    "correct":false
+                }
+            ]
+        },
+        {
+            "question":"Extra Credit: What is the color of Null ARC-11 Ordo Skirata's underwear?",
+            "type":"single",
+            "answers": [
+                {
+                    "text":"Red",
+                    "correct":true
                 }
             ]
         }
