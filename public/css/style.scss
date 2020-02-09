@@ -1,26 +1,37 @@
 body {
     background: rgb(48, 47, 47);
     color: white;
+
     .container {
         padding-bottom: 100px;
 
         .row {
             img {
                 text-align: center;
+                width: 100%;
             }
+
             .col {
                 text-align: center;
             }
+
             h1 {
                 text-align: center;
             }
+
             h1,h4,h5 {
                 margin-bottom: 1rem;
             }
+
+            .form-group {
+                padding: 15px;
+            }
+
             .btn {
                 background: rgb(87, 14, 14);
                 color: white;
             }
+
             #reset {
                 .btn {
                     background: rgb(143, 143, 52);

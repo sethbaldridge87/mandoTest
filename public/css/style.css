@@ -9,6 +9,7 @@ body .container {
 
 body .container .row img {
   text-align: center;
+  width: 100%;
 }
 
 body .container .row .col {
@@ -21,6 +22,10 @@ body .container .row h1 {
 
 body .container .row h1, body .container .row h4, body .container .row h5 {
   margin-bottom: 1rem;
+}
+
+body .container .row .form-group {
+  padding: 15px;
 }
 
 body .container .row .btn {
