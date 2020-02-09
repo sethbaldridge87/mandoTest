@@ -1,0 +1,87 @@
+{
+    "test": [
+        {
+            "question": "Legends: What is the Resol'nare?",
+            "answers": [
+                {
+                    "text":"Code of ethics in addition to the original Canons of Honor",
+                    "correct": false                
+                },
+                {
+                    "text":"Compound word of resol and nari, meaning six actions",
+                    "correct": true
+                },
+                {
+                    "text":"SuperComando code obviously",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Above the Resol'nare, what is the most important value to the Mandalorian?",
+            "answers": [
+                {
+                    "text":"Loyalty",
+                    "correct": false                
+                },
+                {
+                    "text":"Honor",
+                    "correct": true
+                },
+                {
+                    "text":"Glory",
+                    "correct": false
+                },
+                {
+                    "text":"Culture",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What are the Six Actions listed in the Resol'nare?",
+            "answers": [
+                {
+                    "text":"Wearing armor",
+                    "correct": true
+                },
+                {
+                    "text":"Speaking the language",
+                    "correct": false
+                },
+                {
+                    "text":"One should die as they have lived",
+                    "correct": true
+                },
+                {
+                    "text":"Defending yourself and your family",
+                    "correct": false
+                },
+                {
+                    "text":"Raising your children as Mandalorians",
+                    "correct": true
+                },
+                {
+                    "text":"The strong have the right to rule",
+                    "correct": true
+                },
+                {
+                    "text":"When called upon by the Mand'alor, rallying to his cause",
+                    "correct": false
+                },
+                {
+                    "text":"Without honor one may as well be dead",
+                    "correct": true
+                },
+                {
+                    "text":"Without one's clan one has no purpose",
+                    "correct": true
+                },
+                {
+                    "text":"Contributing to the clan's welfare",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}
